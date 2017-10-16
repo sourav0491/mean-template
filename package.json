@@ -1,6 +1,6 @@
 {
   "name": "mean-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -50,5 +50,6 @@
     "supertest": "^2.0.0",
     "tiny-lr": "^0.2.1",
     "underscore": "^1.8.3"
-  }
+  },
+  "description": "starting template for arpeggio"
 }

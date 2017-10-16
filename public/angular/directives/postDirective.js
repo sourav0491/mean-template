@@ -1,5 +1,4 @@
 /* global app */
-
 app.directive('post', function () {
 	return {
 		restrict: 'E',

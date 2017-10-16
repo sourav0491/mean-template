@@ -1,5 +1,4 @@
 /* global app */
-
 app.factory('PostService', ['$resource', function ($resource) {
 	var target = 'http://localhost:3000/api/post';
 	return $resource(target, {

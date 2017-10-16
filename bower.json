@@ -1,6 +1,6 @@
 {
   "name": "mean-template",
-  "description": "",
+  "description": "starting template for arpeggio",
   "main": "",
   "authors": [
     "gnavalesi <guidonavalesi@gmail.com>"
@@ -20,5 +20,5 @@
     "angular-route": "^1.5.8",
     "angular-resource": "^1.5.8"
   },
-  "version": "1.0.0"
+  "version": "0.1.0"
 }
